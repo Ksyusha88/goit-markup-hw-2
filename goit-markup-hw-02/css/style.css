@@ -1,0 +1,106 @@
+body{
+    font-family: 'Roboto';
+}
+
+/* WebStudio */
+
+.logo {
+    color: #000000;
+        text-decoration: none;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+    }
+    .logo-header {
+        color: #2196F3;
+    }
+    .logo-footer{
+        color: #FFFFFF;
+    }
+.meny-nav{
+    font-family: 'Roboto';
+    color: #212121;
+    font-style: normal;
+}  
+.meny-nav:hover,
+.meny-nav:active,
+.meny-nav:focus
+{
+    color: #2196F3;
+}
+
+.list{
+    list-style: none;
+}
+/* Эффективные решения для вашего бизнеса */
+
+.site-header{
+    background: #2F303A;
+}
+.site-header h1{
+    color: #FFFFFF;
+}
+.button{
+    font-family: Roboto;
+    color: #FFFFFF;;
+    background: #2196F3;
+    
+}
+
+/* Особенности команды */
+.features p {
+    color: #757575;
+}
+.features h3 {
+    color: #212121;;
+}
+/* Наша команда */
+.team p {
+    color: #757575;
+}
+
+/* Подвал */
+.fotter{
+    background: #2F303A
+}
+.fotter-nav{
+    font-style: normal;
+    color: rgba(255, 255, 255, 0.6);
+}
+.fotter-adress{
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+/* Потрфолио */
+.logo-footer {
+    color:  #FFFFFF;
+    text-decoration: none;
+    font-family: Raleway;
+    font-style: normal;
+}
+ .fotter-logo {
+    color: #2196F3;
+ }
+ /* Потрфолио */
+ .button-filter button {
+    color: #212121;
+    background: #F5F4FA;
+ }
+ .button-filter button:hover,
+ .button-filter button:focus{
+    color: #F5F4FA;
+    background-color: #2196F3;
+ }
+ .portfolio {
+    font-family: Roboto;
+ }
+ .portfolio h1{
+    color: #212121;
+ }
+ .portfolio p{
+    color: #757575;
+ }
